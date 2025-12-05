@@ -2,22 +2,22 @@
   "name": "Filament Development",
   "image": "mcr.microsoft.com/devcontainers/base:ubuntu",
   "features": {
-    "ghcr.io/devcontainers/features/node:1": {
+    "ghcr.io/notwillk/devcontainer-features/node:1": {
       "version": "lts"
     },
-    "ghcr.io/devcontainers/features/pnpm:1": {
+    "ghcr.io/notwillk/devcontainer-features/pnpm:1": {
       "version": "latest"
     },
-    "ghcr.io/rye-sh/devcontainer-features/turbo:1": {
+    "ghcr.io/notwillk/devcontainer-features/turbo:1": {
       "version": "latest"
     },
-    "ghcr.io/rye-sh/devcontainer-features/just:1": {
+    "ghcr.io/notwillk/devcontainer-features/just:1": {
       "version": "latest"
     },
-    "ghcr.io/devcontainers/features/jq:1": {
+    "ghcr.io/notwillk/devcontainer-features/jq:1": {
       "version": "latest"
     },
-    "ghcr.io/rye-sh/devcontainer-features/checksy:1": {
+    "ghcr.io/notwillk/devcontainer-features/checksy:1": {
       "version": "latest"
     }
   },
