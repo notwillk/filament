@@ -1,11 +1,11 @@
 # Run the static build
 static:
-    turbo run static
+    pnpm run static
 
 # Run development mode
 dev:
-    turbo run dev
+    pnpm run dev
 
 # Run production build
 build:
-    turbo run build
+    pnpm run build
