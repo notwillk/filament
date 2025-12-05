@@ -1,0 +1,18 @@
+{
+  "name": "filament",
+  "version": "0.0.1",
+  "private": true,
+  "description": "Filament monorepo",
+  "scripts": {
+    "static": "turbo run static",
+    "dev": "turbo run dev",
+    "build": "turbo run build"
+  },
+  "devDependencies": {
+    "turbo": "^2.3.3"
+  },
+  "packageManager": "pnpm@9.15.0",
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}
